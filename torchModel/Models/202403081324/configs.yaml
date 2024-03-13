@@ -1,0 +1,8 @@
+batch_size: 64
+height: 32
+learning_rate: 0.005
+max_text_length: 4
+model_path: Models/202403081324
+train_epochs: 20
+vocab: +2345678BKNQRbcdfh
+width: 128
